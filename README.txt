@@ -13,8 +13,9 @@ Expériences :
 
 
 projets persos : nouvelle page
--musique 
+-musique -> description links to spotify et yt + stream on site
 -pace?
 -vidéos :Scoobdedoo, gala, asian, glotte?
--photos
+-photos : gallery
+
 
