@@ -4008,3 +4008,21 @@ input, select, textarea {
 			opacity: 1;
 			visibility: visible;
 		}
+.profilepic  {
+	border-radius: 50%;
+  width: 120px;
+  height: 120px;
+  transform: translate(-30px, 50px);
+
+}
+@media screen and (max-width: 736px) {
+
+		.profilepic  {
+	border-radius: 50%;
+  width: 90px;
+  height: 90px;
+  transform: translate(-20px, 30px);
+
+}
+
+	}
